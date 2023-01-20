@@ -2,3 +2,8 @@
     background-color: rgba(0, 0, 0, 0.233);
     color: rgba(0, 0, 0, 0.454);
 }
+
+.featured-bike-img {
+    -webkit-filter: grayscale(80%);
+    filter: grayscale(100%);
+}
